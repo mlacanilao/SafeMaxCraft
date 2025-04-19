@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>Safe Max Craft</title>
+  <id>omegaplatinum.elin.safemaxcraft</id>
+  <author>OmegaPlatinum</author>
+  <loadPriority>100</loadPriority>
+  <description>
+    Prevents crafting more than the player's current stamina.
+    プレイヤーの現在のスタミナに応じてクラフト可能な最大数を自動的に制限します。
+
+    [h1] Features [/h1]
+    [list]
+    [*] Automatically limits the max craft count based on current stamina.
+    [*] Prevents accidental overcrafting and stamina depletion.
+    [*] Ideal for permadeath or hardcore playthroughs.
+    [*] Recommended to use with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3385902412]Stamina Action Stop[/url].
+    [/list]
+
+    [h1] Compatibility [/h1]
+    This mod works with existing save files.
+
+    Supports Game Version: 0.23.120
+
+    [h1] 特徴 [/h1]
+    [list]
+    [*] 現在のスタミナに基づいて、クラフト可能な最大数を自動的に制限します。
+    [*] クラフト時のスタミナ不足による操作ミスを防ぎます。
+    [*] パーマデスやハードコアプレイに最適です。
+    [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3385902412]Stamina Action Stop[/url] との併用がおすすめです。
+    [/list]
+
+    [h1] 互換性 [/h1]
+    このMODは既存のセーブデータと完全に互換性があります。
+
+    対応ゲームバージョン: 0.23.120
+  </description>
+  <tags>QoL</tags>
+  <visibility>Public</visibility>
+  <version>0.23.120</version>
+</Meta>
