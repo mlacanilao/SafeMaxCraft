@@ -14,12 +14,27 @@
     [*] Prevents accidental overcrafting and stamina depletion.
     [*] Ideal for permadeath or hardcore playthroughs.
     [*] Recommended to use with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3385902412]Stamina Action Stop[/url].
+    [*] In-game toggle key (default: Right Ctrl + C).
     [/list]
 
     [h1] Compatibility [/h1]
     This mod works with existing save files.
 
-    Supports Game Version: 0.23.120
+    [h1] Configuration Variables [/h1]
+
+    [h2] Enable Safe Max Craft [/h2]
+    Enable or disable the Safe Max Craft mod.
+    Set to 'false' to disable stamina-based crafting limits.
+    [code] Default: true [/code]
+
+    [h2] Toggle Safe Max Craft Key [/h2]
+    Key to toggle Safe Max Craft on or off during gameplay.
+    [code] Default: Right Ctrl + C [/code]
+
+    [h1] Configuration File Location [/h1]
+    [code] Steam\steamapps\common\Elin\BepInEx\config\omegaplatinum.elin.safemaxcraft.cfg [/code]
+
+    Supports Game Version: 0.23.152
 
     [h1] 特徴 [/h1]
     [list]
@@ -27,14 +42,29 @@
     [*] クラフト時のスタミナ不足による操作ミスを防ぎます。
     [*] パーマデスやハードコアプレイに最適です。
     [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3385902412]Stamina Action Stop[/url] との併用がおすすめです。
+    [*] ゲーム内でオン/オフを切り替えるキーに対応（デフォルト: 右Ctrl + C）。
     [/list]
 
     [h1] 互換性 [/h1]
     このMODは既存のセーブデータと完全に互換性があります。
 
-    対応ゲームバージョン: 0.23.120
+    [h1] 設定変数 [/h1]
+
+    [h2] Safe Max Craft の有効化 [/h2]
+    Safe Max Craft MOD を有効または無効にします。
+    'false' に設定すると、スタミナによるクラフト制限が無効になります。
+    [code] デフォルト: true [/code]
+
+    [h2] Safe Max Craft 切り替えキー [/h2]
+    ゲーム内で Safe Max Craft をオン/オフに切り替えるキー。
+    [code] デフォルト: 右Ctrl + C [/code]
+
+    [h1] 設定ファイルの場所 [/h1]
+    [code] Steam\steamapps\common\Elin\BepInEx\config\omegaplatinum.elin.safemaxcraft.cfg [/code]
+
+    対応ゲームバージョン: 0.23.152
   </description>
   <tags>QoL</tags>
   <visibility>Public</visibility>
-  <version>0.23.120</version>
+  <version>0.23.152</version>
 </Meta>
